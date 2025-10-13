@@ -1,1 +1,5 @@
-# Enhancing-Document-Security-and-Authenticity-with-Blockchain-and-NFT
+In today’s digital era, the massive volume of documents produced daily is increasingly prone to tampering and misuse, raising serious concerns about authenticity and trust. Traditional verification methods are slow, error-prone, and heavily dependent on physical checks.
+ To address this, we propose a framework combining blockchain and NFTs to give each document a unique, tamper-proof identity. Fully Homomorphic Encryption (FHE) allows secure validation directly on encrypted data, while Threshold Cryptography distributes trust by requiring multiple parties for decryption. An AI-based verification layer further strengthens the system by automatically detecting anomalies and reducing human error.
+ Together, these technologies create a secure, efficient and scalable ecosystem where documents are immutable, private, and verifiable shifting from fragile digital files to trusted digital assets, enhancing both security and trust in document management.
+
+ <img width="1045" height="485" alt="image" src="https://github.com/user-attachments/assets/a1b12e05-9182-43a0-a4e4-82a7d2682948" />
