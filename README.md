@@ -11,8 +11,7 @@ Together, these technologies create a secure, efficient, and scalable ecosystem 
 transition from fragile files to trusted, programmable assets, enhancing both security and compliance in
 document management.
 
- <img width="1045" height="485" alt="image" src="https://github.com/user-attachments/assets/a1b12e05-9182-43a0-a4e4-82a7d2682948" />
-![image](https://github.com/user-attachments/assets/a72db456-8f6e-4485-9332-0fdbe582299d)
+<img width="3901" height="2550" alt="image (1)" src="https://github.com/user-attachments/assets/9d811984-95e6-47bb-b635-b777088ffe7a" />
 <img width="1024" height="897" alt="p" src="https://github.com/user-attachments/assets/4b17796e-0092-4f74-89ec-2a1677600d2d" />
 <img width="1024" height="1024" alt="pipeline_performance" src="https://github.com/user-attachments/assets/55057049-7cc8-4e21-89bd-92b0038fab37" />
 <img width="1024" height="1024" alt="t" src="https://github.com/user-attachments/assets/27fa671d-b274-4c18-8c6a-00aee1505310" />
